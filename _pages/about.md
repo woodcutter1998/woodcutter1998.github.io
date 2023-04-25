@@ -21,7 +21,7 @@ I am a third-year Ph.D. candidate at Washington University in St. Louis. I focus
 
 If you are interested in my work and would like to chat, shoot me an email!
 
-I obtained my Bachelor's degree also from Washington University in St. Louis. It is my honor to be advised by Dr. Yixin Chen towards my Ph.D. degree.
+I obtained my Bachelor's degree also from Washington University in St. Louis. It is my honor to be advised by Dr. Yixin Chen towards my Ph.D. degree. For details, check out my [CV](https://github.com/woodcutter1998/woodcutter1998.github.io/blob/main/docs/resume.pdf)
 
 
 # 🔥 News
