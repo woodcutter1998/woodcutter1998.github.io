@@ -19,12 +19,12 @@ redirect_from:
 
 I am a fourth-year Ph.D. candidate at Washington University in St. Louis. I focus on studying and improving Graph Neural Networks (GNNs). My current target is to reduce the complexity of powerful GNNs. I am also interested in general ML and its clinical application. Recently, ICD auto-coding and multi-modal study using ICD code draw my attention.
 
-**Very recent interests on developing universal graph foundation model! Our preliminary work is [here](https://arxiv.org/abs/2310.00149). I am excited to talk about any idea you have on this.**
-
-If you are interested in my work and would like to chat, shoot me an email!
+*Very recent interests on developing universal graph foundation model! Our preliminary work is [here](https://arxiv.org/abs/2310.00149). I am excited to talk about related ideas.*
 
 I obtained my Bachelor's degree also from Washington University in St. Louis. It is my honor to be advised by Dr. Yixin Chen towards my Ph.D. degree. For details, check out my [CV](https://github.com/woodcutter1998/woodcutter1998.github.io/blob/main/docs/resume.pdf)
 
+
+<h2>I am actively looking for internship Summer 2024. If you are interested in my work, I would love to chat and discuss potential opportunities.</h2>
 
 # 🔥 News
 - *2023.09*: Check out our newest work combining Graph Neural Networks with LLMs! ([Code](https://github.com/LechengKong/OneForAll), [Paper](https://arxiv.org/abs/2310.00149)) Using LLM, we design a GNN that is cross-domain (citation network, molecular graph, etc) and cross-task (node-level, link-level, zero-shot, etc), potentially serving as a pathway to graph foundation model.
@@ -44,11 +44,11 @@ I obtained my Bachelor's degree also from Washington University in St. Louis. It
 (\* Equal Contribution)
 
 # 🎖 Honors and Awards
-- *2022.10* NeurIPS travel award.
+- *2022/2023* NeurIPS travel award.
 - *2007.08* Chunjianghuayue Young Residents Swimming Competition, Runner-up.
 
 # 🤝 Services
-- Reviewer for conferences: CVPR23; NeurIPS23; ICLR24;
+- Reviewer for conferences: CVPR23/24; NeurIPS23; ICLR24;
 
 # 📖 Educations
 - *2020.09 - (now)*, Ph.D., Computer Science, Washington University in St. Louis.
@@ -56,7 +56,7 @@ I obtained my Bachelor's degree also from Washington University in St. Louis. It
 - *2010.9 - 2016.06*, High School, Academic, Hangzhou Foreign Language School.
 
 # 💻 Internships
-- *2019.05 - 2019.08*, [Google](google.com), Mountain View.
+- *2019.05 - 2019.08*, Google, Mountain View.
 
 # Personal
 - I am from Hangzhou, China.
