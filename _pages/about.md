@@ -21,7 +21,7 @@ I am a fourth-year Ph.D. candidate at Washington University in St. Louis. I focu
 
 *Very recent interests on developing universal graph foundation model! Our preliminary work is [here](https://arxiv.org/abs/2310.00149). I am excited to talk about related ideas.*
 
-I obtained my Bachelor's degree also from Washington University in St. Louis. It is my honor to be advised by Dr. Yixin Chen towards my Ph.D. degree. For details, check out my [CV](https://github.com/woodcutter1998/woodcutter1998.github.io/blob/main/docs/resume.pdf)
+I obtained my Bachelor's degree also from Washington University in St. Louis. It is my honor to be advised by Dr. Yixin Chen towards my Ph.D. degree. For details, check out my [CV](docs/resume.pdf).
 
 
 <h2>I am actively looking for internship Summer 2024. If you are interested in my work, I would love to chat and discuss potential opportunities.</h2>
@@ -32,8 +32,8 @@ I obtained my Bachelor's degree also from Washington University in St. Louis. It
 - *2022.09*: &nbsp;🎉🎉 Our paper [Geodesic Graph Neural Network for Efficient Graph Representation Learning](https://openreview.net/forum?id=6pC5OtP7eBx) accepted by Neurips 22!
 
 # 📝 Publications 
-- `NeurIPS 2023` MAG-GNN: Reinforcement Learning Boosted Graph Neural Network, **Lecheng Kong**, Jiarui Feng, Hao Liu, Dacheng Tao, Yixin Chen, Muhan Zhang
-- `NeurIPS 2023` [Towards Arbitrarily Expressive GNNs in $O(n^2)$ Space by Rethinking Folklore Weisfeiler-Lehman](https://arxiv.org/abs/2306.03266), Jiarui Feng, **Lecheng Kong**, Hao Liu, Dacheng Tao, Fuhai Li, Muhan Zhang, Yixin Chen
+- `NeurIPS 2023` [MAG-GNN: Reinforcement Learning Boosted Graph Neural Network](https://arxiv.org/abs/2310.19142), **Lecheng Kong**, Jiarui Feng, Hao Liu, Dacheng Tao, Yixin Chen, Muhan Zhang
+- `NeurIPS 2023` [Extending the Design Space of Graph Neural Networks by Rethinking Folklore Weisfeiler-Lehman](https://arxiv.org/abs/2306.03266), Jiarui Feng, **Lecheng Kong**, Hao Liu, Dacheng Tao, Fuhai Li, Muhan Zhang, Yixin Chen
 - `NeurIPS 2022` [Geodesic Graph Neural Network for Efficient Graph Representation Learning](https://arxiv.org/abs/2210.02636), **Lecheng Kong**, Yixin Chen, Muhan Zhang
 - `IJCAI 2022` [Manipulating Elections by Changing Voter Perceptions](https://arxiv.org/abs/2205.00102), Junlin Wu, Andrew Estornell, **Lecheng Kong**, Yevgeniy Vorobeychik
 - `Preprint` [One for All: Towards Training One Graph Model for All Classification Tasks](https://arxiv.org/abs/2310.00149), \*Hao Liu, \*Jiarui Feng, **\*Lecheng Kong**, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang
