@@ -21,7 +21,7 @@ I am a fourth-year Ph.D. candidate at Washington University in St. Louis. I focu
 
 *Very recent interests on developing universal graph foundation model! Our preliminary work is [here](https://arxiv.org/abs/2310.00149). I am excited to talk about related ideas.*
 
-I obtained my Bachelor's degree also from Washington University in St. Louis. It is my honor to be advised by Dr. Yixin Chen towards my Ph.D. degree. For details, check out my [CV](docs/resume.pdf).
+I obtained my Bachelor's degree also from Washington University in St. Louis. It is my honor to be advised by Dr. Yixin Chen towards my Ph.D. degree. For details, check out my [CV](../docs/resume.pdf).
 
 
 <h2>I am actively looking for internship Summer 2024. If you are interested in my work, I would love to chat and discuss potential opportunities.</h2>
