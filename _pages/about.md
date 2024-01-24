@@ -27,6 +27,8 @@ I obtained my Bachelor's degree also from Washington University in St. Louis. It
 <h2>I am actively looking for internship Summer 2024. If you are interested in my work, I would love to chat and discuss potential opportunities.</h2>
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 [COLA](https://arxiv.org/abs/2309.10376) accpeted by WWW2024! Congratulations to Hao!
+- *2024.01*: &nbsp;🎉🎉 [OneForAll](https://arxiv.org/abs/2310.00149) paper accepted as Spotlight (5%) by ICLR2024. Thanks everyone for the great teamwork!
 - *2023.09*: Check out our newest work combining Graph Neural Networks with LLMs! ([Code](https://github.com/LechengKong/OneForAll), [Paper](https://arxiv.org/abs/2310.00149)) Using LLM, we design a GNN that is cross-domain (citation network, molecular graph, etc) and cross-task (node-level, link-level, zero-shot, etc), potentially serving as a pathway to graph foundation model.
 - *2023.09*: &nbsp;🎉🎉 Two paper, [MAG-GNN](https://openreview.net/forum?id=K4FK7I8Jnl) and [(k,t)-FWL](https://openreview.net/forum?id=UlJcZoawgU) accepted by Neurips 23!
 - *2022.09*: &nbsp;🎉🎉 Our paper [Geodesic Graph Neural Network for Efficient Graph Representation Learning](https://openreview.net/forum?id=6pC5OtP7eBx) accepted by Neurips 22!
