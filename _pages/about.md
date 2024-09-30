@@ -38,6 +38,7 @@ I obtained my Bachelor's degree also from Washington University in St. Louis. It
 (\* Equal contribution) 
 - `ICLR 2024` [One for All: Towards Training One Graph Model for All Classification Tasks](https://arxiv.org/abs/2310.00149), Hao Liu\*, Jiarui Feng\*, **Lecheng Kong\***, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang
 - `WWW 2024` [Graph Contrastive Learning Meets Graph Meta Learning: A Unified Method for Few-shot Node Tasks](https://arxiv.org/abs/2309.10376), Hao Liu, Jiarui Feng, **Lecheng Kong**, Dacheng Tao, Yixin Chen, Muhan Zhang
+- `NeurIPS 2023` [MAG-GNN: Reinforcement Learning Boosted Graph Neural Network](https://arxiv.org/abs/2310.19142), **Lecheng Kong**, Jiarui Feng, Hao Liu, Dacheng Tao, Yixin Chen, Muhan Zhang
 - `NeurIPS 2023` [Extending the Design Space of Graph Neural Networks by Rethinking Folklore Weisfeiler-Lehman](https://arxiv.org/abs/2306.03266), Jiarui Feng, **Lecheng Kong**, Hao Liu, Dacheng Tao, Fuhai Li, Muhan Zhang, Yixin Chen
 - `NeurIPS 2022` [Geodesic Graph Neural Network for Efficient Graph Representation Learning](https://arxiv.org/abs/2210.02636), **Lecheng Kong**, Yixin Chen, Muhan Zhang
 - `IJCAI 2022` [Manipulating Elections by Changing Voter Perceptions](https://arxiv.org/abs/2205.00102), Junlin Wu, Andrew Estornell, **Lecheng Kong**, Yevgeniy Vorobeychik
