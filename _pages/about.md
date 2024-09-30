@@ -35,18 +35,17 @@ I obtained my Bachelor's degree also from Washington University in St. Louis. It
 - *2023.09*: &nbsp;🎉🎉 Two paper, [MAG-GNN](https://openreview.net/forum?id=K4FK7I8Jnl) and [(k,t)-FWL](https://openreview.net/forum?id=UlJcZoawgU) accepted by Neurips 23!
 
 # 📝 Publications
-(* Equal contribution) 
-- `ICLR 2024` [One for All: Towards Training One Graph Model for All Classification Tasks](https://arxiv.org/abs/2310.00149), Hao Liu*, Jiarui Feng*, **Lecheng Kong\***, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang
+(\* Equal contribution) 
+- `ICLR 2024` [One for All: Towards Training One Graph Model for All Classification Tasks](https://arxiv.org/abs/2310.00149), Hao Liu\*, Jiarui Feng\*, **Lecheng Kong\***, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang
 - `WWW 2024` [Graph Contrastive Learning Meets Graph Meta Learning: A Unified Method for Few-shot Node Tasks](https://arxiv.org/abs/2309.10376), Hao Liu, Jiarui Feng, **Lecheng Kong**, Dacheng Tao, Yixin Chen, Muhan Zhang
 - `NeurIPS 2023` [Extending the Design Space of Graph Neural Networks by Rethinking Folklore Weisfeiler-Lehman](https://arxiv.org/abs/2306.03266), Jiarui Feng, **Lecheng Kong**, Hao Liu, Dacheng Tao, Fuhai Li, Muhan Zhang, Yixin Chen
 - `NeurIPS 2022` [Geodesic Graph Neural Network for Efficient Graph Representation Learning](https://arxiv.org/abs/2210.02636), **Lecheng Kong**, Yixin Chen, Muhan Zhang
 - `IJCAI 2022` [Manipulating Elections by Changing Voter Perceptions](https://arxiv.org/abs/2205.00102), Junlin Wu, Andrew Estornell, **Lecheng Kong**, Yevgeniy Vorobeychik
-- `Preprint` [GOFA: A Generative One-For-All Model for Joint Graph Language Modeling](https://arxiv.org/abs/2407.09709), **Lecheng Kong\***, Jiarui Feng*, Hao Liu*, Chengsong Huang, Jiaxin Huang, Yixin Chen, Muhan Zhang
+- `Preprint` [GOFA: A Generative One-For-All Model for Joint Graph Language Modeling](https://arxiv.org/abs/2407.09709), **Lecheng Kong\***, Jiarui Feng\*, Hao Liu\*, Chengsong Huang, Jiaxin Huang, Yixin Chen, Muhan Zhang
 - `Preprint` [TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models](https://arxiv.org/abs/2406.14683), Jiarui Feng, Hao Liu, **Lecheng Kong**, Yixin Chen, Muhan Zhang
 - `Preprint` [A Multi-View Joint Learning Framework for Embedding Clinical Codes and Text Using Graph Neural Networks](https://arxiv.org/abs/2301.11608), **Lecheng Kong**, Christopher King, Bradley Fritz, Yixin Chen
 - `Preprint` [Time Associated Meta Learning for Clinical Prediction](https://arxiv.org/abs/2303.02570), Hao Liu, Muhan Zhang, Zehao Dong, **Lecheng Kong**, Yixin Chen, Bradley Fritz, Dacheng Tao, Christopher King
 
-(\* Equal Contribution)
 
 # 🎖 Honors and Awards
 - *2022/2023* NeurIPS travel award.
