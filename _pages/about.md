@@ -47,6 +47,9 @@ I obtained my Bachelor's degree also from Washington University in St. Louis. It
 - `Preprint` [A Multi-View Joint Learning Framework for Embedding Clinical Codes and Text Using Graph Neural Networks](https://arxiv.org/abs/2301.11608), **Lecheng Kong**, Christopher King, Bradley Fritz, Yixin Chen
 - `Preprint` [Time Associated Meta Learning for Clinical Prediction](https://arxiv.org/abs/2303.02570), Hao Liu, Muhan Zhang, Zehao Dong, **Lecheng Kong**, Yixin Chen, Bradley Fritz, Dacheng Tao, Christopher King
 
+# 💻 Internships
+- *2024.05 - 2024.08*, Applied Scientist Intern, Amazon, Santa Clara.
+- *2019.05 - 2019.08*, Software Engineer Intern, Google, Mountain View.
 
 # 🎖 Honors and Awards
 - *2022/2023* NeurIPS travel award.
@@ -59,9 +62,6 @@ I obtained my Bachelor's degree also from Washington University in St. Louis. It
 - *2020.09 - (now)*, Ph.D., Computer Science, Washington University in St. Louis.
 - *2016.09 - 2020.06*, Bachelor's/Master's, Computer Science, Washington University in St. Louis.
 - *2010.9 - 2016.06*, High School, Academic, Hangzhou Foreign Language School.
-
-# 💻 Internships
-- *2019.05 - 2019.08*, Google, Mountain View.
 
 # Personal
 - I am from Hangzhou, China.
