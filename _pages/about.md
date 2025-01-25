@@ -24,25 +24,24 @@ I am a fifth-year Ph.D. candidate at Washington University in St. Louis. I focus
 I obtained my Bachelor's degree also from Washington University in St. Louis. It is my honor to be advised by Dr. Yixin Chen towards my Ph.D. degree. For details, check out my [CV](https://github.com/LechengKong/LechengKong.github.io/blob/main/docs/resume.pdf).
 
 
-<h2>I am actively looking for Full-time position starting Summer/Fall 2025. If you are interested in my work, I would love to chat and discuss potential opportunities.</h2>
+<h2>I am actively looking for Full-time research-oriented position starting Summer/Fall 2025. If you are interested in my work, I would love to chat and discuss potential opportunities. You can contact me through email.</h2>
 
 # 🔥 News
+- *2025.01*: &nbsp;🔥🔥 [GOFA](https://openreview.net/forum?id=mIjblC9hfm) was accepted by ICLR2025!
 - *2024.08*: &nbsp;🔥🔥 [GOFA](https://arxiv.org/abs/2407.09709) released, we propose a generative approach to solve a wide variety of tasks in the graph domain. GOFA can generate free-form graph-related response to arbitrary human input.
 - *2024.08*: &nbsp;🔥🔥 [TAGLAS](https://arxiv.org/abs/2406.14683) released, TAGLAS aim to provide a graph dataset with high diversity from synthetic to real-world data. Check it out if you are building graph foundation models.
 - *2024.01*: &nbsp;🎉🎉 [COLA](https://arxiv.org/abs/2309.10376) accpeted by WWW2024! Congratulations to Hao!
 - *2024.01*: &nbsp;🎉🎉 [OneForAll](https://arxiv.org/abs/2310.00149) paper accepted as Spotlight (5%) by ICLR2024. Thanks everyone for the great teamwork!
-- *2023.09*: Check out our newest work combining Graph Neural Networks with LLMs! ([Code](https://github.com/LechengKong/OneForAll), [Paper](https://arxiv.org/abs/2310.00149)) Using LLM, we design a GNN that is cross-domain (citation network, molecular graph, etc) and cross-task (node-level, link-level, zero-shot, etc), potentially serving as a pathway to graph foundation model.
-- *2023.09*: &nbsp;🎉🎉 Two paper, [MAG-GNN](https://openreview.net/forum?id=K4FK7I8Jnl) and [(k,t)-FWL](https://openreview.net/forum?id=UlJcZoawgU) accepted by Neurips 23!
 
 # 📝 Publications
-(\* Equal contribution) 
+(\* Equal contribution)
+- `ICLR 2025` [GOFA: A Generative One-For-All Model for Joint Graph Language Modeling](https://arxiv.org/abs/2407.09709), **Lecheng Kong\***, Jiarui Feng\*, Hao Liu\*, Chengsong Huang, Jiaxin Huang, Yixin Chen, Muhan Zhang (To appear)
 - `ICLR 2024` [One for All: Towards Training One Graph Model for All Classification Tasks](https://arxiv.org/abs/2310.00149), Hao Liu\*, Jiarui Feng\*, **Lecheng Kong\***, Ningyue Liang, Dacheng Tao, Yixin Chen, Muhan Zhang
 - `WWW 2024` [Graph Contrastive Learning Meets Graph Meta Learning: A Unified Method for Few-shot Node Tasks](https://arxiv.org/abs/2309.10376), Hao Liu, Jiarui Feng, **Lecheng Kong**, Dacheng Tao, Yixin Chen, Muhan Zhang
 - `NeurIPS 2023` [MAG-GNN: Reinforcement Learning Boosted Graph Neural Network](https://arxiv.org/abs/2310.19142), **Lecheng Kong**, Jiarui Feng, Hao Liu, Dacheng Tao, Yixin Chen, Muhan Zhang
 - `NeurIPS 2023` [Extending the Design Space of Graph Neural Networks by Rethinking Folklore Weisfeiler-Lehman](https://arxiv.org/abs/2306.03266), Jiarui Feng, **Lecheng Kong**, Hao Liu, Dacheng Tao, Fuhai Li, Muhan Zhang, Yixin Chen
 - `NeurIPS 2022` [Geodesic Graph Neural Network for Efficient Graph Representation Learning](https://arxiv.org/abs/2210.02636), **Lecheng Kong**, Yixin Chen, Muhan Zhang
 - `IJCAI 2022` [Manipulating Elections by Changing Voter Perceptions](https://arxiv.org/abs/2205.00102), Junlin Wu, Andrew Estornell, **Lecheng Kong**, Yevgeniy Vorobeychik
-- `Preprint` [GOFA: A Generative One-For-All Model for Joint Graph Language Modeling](https://arxiv.org/abs/2407.09709), **Lecheng Kong\***, Jiarui Feng\*, Hao Liu\*, Chengsong Huang, Jiaxin Huang, Yixin Chen, Muhan Zhang
 - `Preprint` [TAGLAS: An atlas of text-attributed graph datasets in the era of large graph and language models](https://arxiv.org/abs/2406.14683), Jiarui Feng, Hao Liu, **Lecheng Kong**, Yixin Chen, Muhan Zhang
 - `Preprint` [A Multi-View Joint Learning Framework for Embedding Clinical Codes and Text Using Graph Neural Networks](https://arxiv.org/abs/2301.11608), **Lecheng Kong**, Christopher King, Bradley Fritz, Yixin Chen
 - `Preprint` [Time Associated Meta Learning for Clinical Prediction](https://arxiv.org/abs/2303.02570), Hao Liu, Muhan Zhang, Zehao Dong, **Lecheng Kong**, Yixin Chen, Bradley Fritz, Dacheng Tao, Christopher King
